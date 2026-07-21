@@ -6,7 +6,7 @@
  * Verifies an MCP sync operation against the 9-item Sync Quality Checklist.
  * 
  * Usage:
- *   npx tsx skills/mcp-sync/scripts/check-sync-completeness.ts --project <path>
+ *   npx tsx .agents/skills/mcp-sync/scripts/check-sync-completeness.ts --project <path>
  */
 
 import { argv } from "process";
